@@ -16,6 +16,11 @@ public class Arts implements Education {
 		System.out.println("cs");
 
 	}
+	private void bcom() {
+		System.out.println("cs");
+
+	}
+	
 	package org.abstractedu;
 
         public interface Education {
